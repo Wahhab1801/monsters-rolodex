@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//:wahhab1801.github.io/monsters-rolodex/static/css/main.29097194.chunk.css",
+    "main.js": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/main.344e28f7.chunk.js",
+    "main.js.map": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/main.344e28f7.chunk.js.map",
+    "runtime-main.js": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/runtime-main.5c64e5a8.js",
+    "runtime-main.js.map": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/runtime-main.5c64e5a8.js.map",
+    "static/js/2.a9df2da3.chunk.js": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/2.a9df2da3.chunk.js",
+    "static/js/2.a9df2da3.chunk.js.map": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/2.a9df2da3.chunk.js.map",
+    "static/js/3.cfea3fee.chunk.js": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/3.cfea3fee.chunk.js",
+    "static/js/3.cfea3fee.chunk.js.map": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/3.cfea3fee.chunk.js.map",
+    "index.html": "/https//:wahhab1801.github.io/monsters-rolodex/index.html",
+    "static/css/main.29097194.chunk.css.map": "/https//:wahhab1801.github.io/monsters-rolodex/static/css/main.29097194.chunk.css.map",
+    "static/js/2.a9df2da3.chunk.js.LICENSE.txt": "/https//:wahhab1801.github.io/monsters-rolodex/static/js/2.a9df2da3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c64e5a8.js",
+    "static/js/2.a9df2da3.chunk.js",
+    "static/css/main.29097194.chunk.css",
+    "static/js/main.344e28f7.chunk.js"
+  ]
+}
